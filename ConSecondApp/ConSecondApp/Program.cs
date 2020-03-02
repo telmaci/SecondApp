@@ -12,6 +12,7 @@ namespace ConSecondApp
         {
             // taha elmacı
             //secon ghance
+             // hubele hubele diğer
         }
     }
 }
